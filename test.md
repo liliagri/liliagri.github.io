@@ -1,5 +1,5 @@
 layout: page
 title: "PAGE-TITLE"
-permalink: /test.md
+permalink: /test
 # Test
 test page
